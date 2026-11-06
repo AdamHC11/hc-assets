@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 512 512">
+<title>HollywoodChicago.com</title>
+<defs>
+<linearGradient id="disc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f4f4"/><stop offset="0.5" stop-color="#c9c9c9"/><stop offset="1" stop-color="#8a8a8a"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#5a5a5a"/></linearGradient>
+<linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9a9a9a"/><stop offset="1" stop-color="#e8e8e8"/></linearGradient>
+<linearGradient id="hole" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b2b2b"/><stop offset="0.55" stop-color="#6e6e6e"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbeaa0"/><stop offset="0.5" stop-color="#e3c45c"/><stop offset="1" stop-color="#a8802a"/></linearGradient>
+</defs>
+<rect width="512" height="512" fill="#ffffff"/>
+<circle cx="256" cy="256" r="214" fill="url(#edge)" stroke="#555" stroke-width="3"/>
+<circle cx="256" cy="256" r="202" fill="url(#disc)"/>
+<circle cx="331.2" cy="152.4" r="35" fill="url(#rim)" stroke="#3a3a3a" stroke-width="3"/><circle cx="331.2" cy="152.4" r="25" fill="url(#hole)" stroke="#222" stroke-width="2"/><circle cx="377.7" cy="295.6" r="35" fill="url(#rim)" stroke="#3a3a3a" stroke-width="3"/><circle cx="377.7" cy="295.6" r="25" fill="url(#hole)" stroke="#222" stroke-width="2"/><circle cx="256.0" cy="384.0" r="35" fill="url(#rim)" stroke="#3a3a3a" stroke-width="3"/><circle cx="256.0" cy="384.0" r="25" fill="url(#hole)" stroke="#222" stroke-width="2"/><circle cx="134.3" cy="295.6" r="35" fill="url(#rim)" stroke="#3a3a3a" stroke-width="3"/><circle cx="134.3" cy="295.6" r="25" fill="url(#hole)" stroke="#222" stroke-width="2"/><circle cx="180.8" cy="152.4" r="35" fill="url(#rim)" stroke="#3a3a3a" stroke-width="3"/><circle cx="180.8" cy="152.4" r="25" fill="url(#hole)" stroke="#222" stroke-width="2"/>
+<polygon points="256.0,98.0 293.6,204.2 406.3,207.2 316.9,275.8 348.9,383.8 256.0,320.0 163.1,383.8 195.1,275.8 105.7,207.2 218.4,204.2" fill="#111" stroke="#111" stroke-width="10" stroke-linejoin="miter"/>
+<polygon points="256.0,106.0 291.3,207.5 398.7,209.6 313.1,274.5 344.2,377.4 256.0,316.0 167.8,377.4 198.9,274.5 113.3,209.6 220.7,207.5" fill="url(#gold)"/>
+<polygon points="256.0,174.0 275.4,229.3 334.0,230.7 287.4,266.2 304.2,322.3 256.0,289.0 207.8,322.3 224.6,266.2 178.0,230.7 236.6,229.3" fill="#000"/>
+</svg>
